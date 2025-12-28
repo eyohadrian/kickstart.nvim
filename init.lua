@@ -1016,3 +1016,4 @@ require('lazy').setup({
 -- vim: ts=2 sts=2 sw=2 et
 
 T = require('kickstart.test')
+require('kickstart.test_user_cmd')
